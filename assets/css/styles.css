@@ -8,6 +8,10 @@ body {
 	font-family: 'Roboto', sans-serif !important;
 }
 
+#favorites_content, #involvement_content, #project_content {
+	display: none;
+
+}
 
 #navbar h1 {
 	display: inline-block;
