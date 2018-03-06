@@ -133,6 +133,15 @@ p a {
 	background-color: #f3f3f3;
 }
 
+#about h1 {
+	font-size: 40px;
+}
+
+#about p {
+	font-size: 13px;
+	line-height: 20px;
+}
+
 .responsive-img {
 	width: 100%;
 	height: auto;
@@ -344,7 +353,7 @@ p a {
 }
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1100px) {
     /* For mobile phones: */
     #navbar {
     	padding: 0;
@@ -376,7 +385,7 @@ p a {
     }
 }
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 1100px) {
 	#navbar-hidden {
 		display: none !important;
 	}
