@@ -13,6 +13,8 @@ body {
 
 }
 
+
+
 #navbar h1 {
 	display: inline-block;
 	height: 100%;
@@ -216,6 +218,10 @@ p a {
 	font-size: 24px;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+.section-header:hover {
+	cursor: pointer;
 }
 
 #project_header {
