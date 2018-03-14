@@ -48,6 +48,10 @@ body {
 
 }
 
+#navbar-hidden {
+	position: absolute;
+}
+
 #navbar h1, #navbar li, #navbar-hidden li {
 	color: #000;
 	height: 80px;
