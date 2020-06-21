@@ -19,9 +19,9 @@ section {
 }
 
 img {
-  height: 300px;
+  height: 45%;
   border-radius: 50%;
-  width: 300px;
+  width: 45%;
   margin-bottom: 10px;
 }
 
@@ -54,7 +54,7 @@ a:hover {
 
 p {
 	text-align: center;
-	font-size: 21px;
+	font-size: 18px;
 	color: navy;
 }
 
